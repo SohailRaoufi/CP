@@ -1,2 +1,6 @@
 .vscode/*
+.cph/*
 
+*.out
+*.o
+*.exe
